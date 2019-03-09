@@ -1,0 +1,3 @@
+#!/bin/bash
+mvn --file pom-file.xml clean
+mvn --file pom-file.xml package
